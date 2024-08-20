@@ -1,0 +1,6 @@
+Content: Lists directory contents (files / hidden files)
+Options:
+    + -l : show all visible files format list - verticalize items
+    + -al : show all files - visible files + hidden files + "." + ".."
+    + -A : show all files not contains "." and ".." - visible files + hidden files
+    + 
