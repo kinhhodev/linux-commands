@@ -1,0 +1,8 @@
+Content: Create folder
+Options:
+    + -p : Creates parent directories if they don't exist
+    + -m a=[rwx] [dir_name] : Sets the file modes, i.e., permissions, for the new directory.
+    + -v : Show folder name when created directory
+
+Help More options - description
+https://phoenixnap.com/kb/create-directory-linux-mkdir-command

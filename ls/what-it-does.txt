@@ -4,3 +4,5 @@ Options:
     + -al : show all files - visible files + hidden files + "." + ".."
     + -A : show all files not contains "." and ".." - visible files + hidden files
     + 
+Help More options - description
+https://www.computerhope.com/unix/uls.htm
